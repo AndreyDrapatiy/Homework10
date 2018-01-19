@@ -1,5 +1,5 @@
 {
-  "name": "AwesomeProject",
+  "name": "homework_10",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -8,12 +8,14 @@
   },
   "dependencies": {
     "react": "16.0.0",
-    "react-native": "0.51.0"
+    "react-native": "0.51.0",
+    "react-native-fs": "^2.9.6",
+    "react-native-image-picker": "^0.26.7"
   },
   "devDependencies": {
-    "babel-jest": "22.0.4",
+    "babel-jest": "22.0.3",
     "babel-preset-react-native": "4.0.0",
-    "jest": "22.0.4",
+    "jest": "22.0.3",
     "react-test-renderer": "16.0.0"
   },
   "jest": {
